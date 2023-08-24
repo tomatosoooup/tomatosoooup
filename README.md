@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomatosoooup
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS + Bootstrap
+- 🌱 I’m currently learning Next.JS
 - 💞️ I’m looking to collaborate on other github content
 - 📫 How to reach me v.gabinet02@icloud.com
 
